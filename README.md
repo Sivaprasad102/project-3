@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://red-island-077284b00.2.azurestaticapps.net/index.html
-**project demo video link** - 
+**project demo video link** - https://youtu.be/L8aLm_jt4D4
 
 ## Azure technologies used for Project
 
